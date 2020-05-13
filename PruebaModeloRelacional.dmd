@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="PruebaModeloRelacional" id="9F8584BC-8BBD-2B7D-8114-855F25E7F5D3" version="3.5">
+<createdBy>HP</createdBy>
+<createdTime>2020-03-12 00:54:23 UTC</createdTime>
+<ownerDesignName>LogicoPrueba_bbd</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>9F8584BC-8BBD-2B7D-8114-855F25E7F5D3</designId>
+</OSDM_Design>

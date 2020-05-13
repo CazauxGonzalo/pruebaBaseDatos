@@ -1,0 +1,39 @@
+
+3 filas insertadas.
+
+
+20 filas insertadas.
+
+
+80 filas insertadas.
+
+
+2 filas insertadas.
+
+
+Error que empieza en la línea: 144 del comando -
+insert all
+into curso values (1,'Java Full sala 1',1)
+into curso values (2,'Java Full sala 2',1)
+into curso values (3,'Java Full sala 3',1)
+into curso values (4,'Android sala 1b'2)
+into curso values (5,'Android sala 2b'2)
+select * from dual
+Error en la línea de comandos : 148 Columna : 39
+Informe de error -
+Error SQL: ORA-00917: missing comma
+00917. 00000 -  "missing comma"
+*Cause:    
+*Action:
+
+5 filas insertadas.
+
+
+30 filas insertadas.
+
+
+100 filas insertadas.
+
+
+100 filas insertadas.
+
